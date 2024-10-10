@@ -1,0 +1,18 @@
+	SWAP(a,b,c,d,e,f,g,h)
+		SWAP(a,b,c,d)
+		SWAP(e,f,g,h)
+$$
+
+	SWAP(a,b,c,d)
+		SWAP(a,b)
+		SWAP(c,d)
+$$
+
+	SWAP(a,b)
+		b,a
+$$
+
+2,1
+4,3
+6,5
+8,7

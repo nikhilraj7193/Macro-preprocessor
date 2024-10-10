@@ -1,0 +1,8 @@
+
+sum3( x , y )
+	total=x+y
+	print(total)
+$$
+
+total=10+20
+print(total)
